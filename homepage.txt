@@ -1,4 +1,5 @@
 i like python language.i also like scm
 i like mcp .
 my name is abc.
-hello world
+hello world.
+hi
